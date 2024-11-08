@@ -6,7 +6,7 @@
 
 ---
 
-🚀 **Welcome to my GitHub** – *The Home of Innovation, Creative Solutions, and Tech Excellence!*  
+*The Home of Innovation, Creative Solutions, and Tech Excellence!*  
 I'm the proud founder of **UPSICAST**, a specialized agency at the cutting edge of **Full Stack Development** and **UI/UX Design**. With a powerful team and a focus on building top-notch digital experiences, we’re here to bring your ideas to life in ways you've never imagined.
 
 ---
