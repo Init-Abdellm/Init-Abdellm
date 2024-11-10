@@ -32,33 +32,9 @@
 <summary><h2>🚀 About UPSICAST</h2></summary>
 <br/>
 
-> *We don't just write code – we architect digital experiences that inspire.*
+*We don't just write code – we architect digital experiences that inspire.*
 
-```typescript
-interface UPSICASTProfile {
-  founder: string;
-  mission: string;
-  expertise: string[];
-  values: string[];
-}
 
-const upsicast: UPSICASTProfile = {
-  founder: "Init-Abdellm",
-  mission: "Transforming ideas into scalable digital solutions",
-  expertise: [
-    "Full Stack Development",
-    "UI/UX Design",
-    "AI Integration",
-    "Cloud Architecture"
-  ],
-  values: [
-    "Innovation First",
-    "Quality Always",
-    "Customer Success",
-    "Continuous Learning"
-  ]
-};
-```
 </details>
 
 <!-- Tech Stack Section -->
