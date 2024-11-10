@@ -16,14 +16,14 @@
   </a>
 </p>
 
-<!-- Mocked GitHub Stats and Streak Stats -->
+<!-- Animated Stats -->
 <p align="center">
-  <img width="49%" src="https://via.placeholder.com/495x195?text=Mocked+GitHub+Stats" alt="Mocked GitHub Stats" />
-  <img width="49%" src="https://via.placeholder.com/495x195?text=Mocked+GitHub+Streak+Stats" alt="Mocked GitHub Streak Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Init-Abdellm&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Init-Abdellm&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Mocked Snake Contribution Graph -->
-<img src="https://via.placeholder.com/800x200?text=Mocked+Snake+Contribution+Graph" alt="Mocked Snake Contribution Graph" />
+<!-- Animated Snake Contribution Graph -->
+<img src="https://github.com/Init-Abdellm/Init-Abdellm/blob/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
