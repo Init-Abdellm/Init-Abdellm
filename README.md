@@ -8,7 +8,7 @@
 
 <!-- Social Links with Animations -->
 <p align="center">
-  <a href="[your-linkedin-url](https://www.linkedin.com/in/abdellm/)" target="_blank">
+  <a href="https://www.linkedin.com/in/abdellm/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
   <a href="mailto:Abdelmoughitezinebi@gmail.com">
