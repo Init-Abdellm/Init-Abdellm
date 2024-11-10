@@ -1,59 +1,89 @@
-<p align="center">
-  <strong style="font-weight: 900; font-size: 28px; background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">
-    Hi there! I'm Init-Abdellm 👋
-  </strong>
-</p>
+<div align="center">
+  
+  # 🚀 Welcome to My Digital Universe! 
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;UI%2FUX+Designer;Tech+Innovator;Problem+Solver)](https://git.io/typing-svg)
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Init-Abdellm&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+</div>
+
+> *"In the realm of code, every problem is a puzzle waiting to be solved"* 🧩
+
+## 🎭 Who Am I?
+
+I'm the architect behind **UPSICAST** – where innovation meets implementation. We don't just write code; we craft digital experiences that leave a lasting impression.
+
+```javascript
+const aboutMe = {
+    role: "Founder & Lead Developer @ UPSICAST",
+    passion: ["Problem Solving", "Innovation", "Clean Code"],
+    philosophy: "There's always an elegant solution"
+};
+```
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+| Languages | Frameworks | Tools |
+|-----------|------------|-------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) | ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+
+</div>
+
+## 🎯 Specializations
+
+- 🎨 **UI/UX Mastery**
+  - Responsive Web Design
+  - Progressive Web Apps
+  - Interactive Interfaces
+
+- 🚀 **Full Stack Solutions**
+  - SaaS Platforms
+  - Enterprise Applications
+  - Cross-platform Integration
+
+- 🤖 **AI & Automation**
+  - Custom AI Models
+  - Process Automation
+  - Smart Integrations
+
+## 🌐 Infrastructure & Security
+
+```python
+class UPSICASTInfrastructure:
+    def __init__(self):
+        self.security = ["Active Directory", "Firewalls", "OAuth2"]
+        self.hosting = ["Azure", "Firebase", "Custom Servers"]
+        self.network = "Enterprise-Grade Architecture"
+```
+
+## 💫 The UPSICAST Philosophy
+
+At UPSICAST, we believe in:
+- 🤝 **Collaboration** over competition
+- 🎯 **Innovation** over imitation
+- 💡 **Solutions** over excuses
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](your-portfolio-url)
+
+</div>
 
 ---
 
-*The Home of Innovation, Creative Solutions, and Tech Excellence!*  
-I'm the proud founder of **UPSICAST**, a specialized agency at the cutting edge of **Full Stack Development** and **UI/UX Design**. With a powerful team and a focus on building top-notch digital experiences, we’re here to bring your ideas to life in ways you've never imagined.
-
----
-
-## 👨‍💻 What We Bring to the Table  
-Our expertise spans a spectrum of languages, platforms, and solutions, making us an all-in-one powerhouse for development and design:
-
-### Languages  
-- 🐍 <span style="color: #3776AB;">**Python**</span>  
-- ⚛️ <span style="color: #F0DB4F;">**JavaScript**</span>  
-- 💙 <span style="color: #3178C6;">**TypeScript**</span>  
-- 🌐 <span style="color: #E34F26;">**HTML**</span>  
-- 🎨 <span style="color: #264DE4;">**CSS**</span>  
-
-### Frameworks  
-- ⚛️ <span style="color: #61DAFB;">**React**</span>  
-- 🅰️ <span style="color: #DD0031;">**Angular**</span>
-
-### Specialties  
-- 🌟 **UI Applications & Websites**  
-- 🚀 **SaaS Solutions** that scale seamlessly  
-- 🤖 **AI-Powered Models & Automations**  
-- 🔗 **Cross-App Integrations**  
-- ☁️ **Web Hosting Expertise** on Firebase and Azure  
-- 🔒 **Active Directory & Security Architecture** (including firewalls)  
-- 📱 **PWA Solutions** and fully **Responsive Interfaces**  
-
----
-
-## 🖧 Networking & Infrastructure  
-We are experts in **server setups**, **networking**, and **hardware architecture**, delivering robust and secure solutions for your digital backbone.
-
----
-
-## 🧠 The "Philosopher Coder" Mentality  
-At **UPSICAST**, we believe in **limitless ideas** and **limitless possibilities**. We’re problem solvers by nature, and I’m a true polymath (some might say panthomath!), always pushing boundaries and questioning the impossible.
-
-> **Our policy?** There’s always a way – just give me a concept, and I'll work with you to structure it, refine it, and bring it to life.
-
----
-
-## 🌟 Leading with Friendship, Not Just Leadership  
-My approach as a leader is simple: **be a friend first**. At **UPSICAST**, we’re a family of passionate, collaborative developers, designers, and thinkers. Together, we embrace curiosity, constantly learn, and stay small in our hearts because the tech world is always evolving. The joy is in the journey, as we grow and challenge each other with each new update.
-
----
-
-## 💬 Let’s Collaborate!  
-If you have an **idea**, a **challenge**, or even a **concept** that seems out of reach, **reach out!** I’m here to help you organize, architect, and transform your thoughts into scalable solutions.
-
-**Let's make the impossible possible – together!**
+<div align="center">
+  
+  *Got an impossible problem? That's our specialty!* 
+  
+  **Let's turn your vision into reality.** ✨
+  
+</div>
