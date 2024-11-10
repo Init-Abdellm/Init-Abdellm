@@ -22,10 +22,6 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Init-Abdellm&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Animated Snake Contribution Graph -->
-<img src="https://github.com/Init-Abdellm/Init-Abdellm/blob/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
 
 <!-- About Me Section with Custom Styling -->
 <details open>
