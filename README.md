@@ -85,10 +85,10 @@
 
 <div align="center">
   <a href="project-1-url">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Init-Abdellm&repo=project-1&theme=tokyonight" />
+    <img align="center" src="https://yakoub-5bd60.web.app/" />
   </a>
   <a href="project-2-url">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Init-Abdellm&repo=project-2&theme=tokyonight" />
+    <img align="center" src="https://hireshub.vercel.app/" />
   </a>
 </div>
 </details>
