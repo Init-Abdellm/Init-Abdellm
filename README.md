@@ -73,6 +73,12 @@ I'm the founder of **UPSICAST**, where we don't just write code – we architect
   <a href="https://hireshub.vercel.app/">
     <img src="https://img.shields.io/badge/HiresHub-Platform-0ea5e9?style=for-the-badge" alt="HiresHub Project"/>
   </a>
+    <a href="https://hireshub.vercel.app/">
+    <img src="https://img.shields.io/badge/HiresHub-Platform-0ea5e9?style=for-the-badge" alt="UPSICAST Project"/>
+  </a>
+    <a href="https://khalilia.vercel.app">
+    <img src="https://img.shields.io/badge/HiresHub-Platform-0ea5e9?style=for-the-badge" alt="KHALILIA Project"/>
+  </a>
   
 </div>
 
