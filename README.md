@@ -68,16 +68,16 @@ I'm the founder of **UPSICAST**, where we don't just write code – we architect
 <div align="center">
   
   <a href="https://yakoub-5bd60.web.app/">
-    <img src="https://img.shields.io/badge/Yakoub-Project-0ea5e9?style=for-the-badge" alt="Yakoub Project"/>
+    <img src="https://img.shields.io/badge/YAKOUB-Project-0ea5e9?style=for-the-badge" alt="Yakoub Project"/>
   </a>
   <a href="https://hireshub.vercel.app/">
-    <img src="https://img.shields.io/badge/HiresHub-Platform-0ea5e9?style=for-the-badge" alt="HiresHub Project"/>
+    <img src="https://img.shields.io/badge/HIRESHUB-Platform-0ea5e9?style=for-the-badge" alt="HiresHub Project"/>
   </a>
     <a href="https://hireshub.vercel.app/">
-    <img src="https://img.shields.io/badge/HiresHub-Platform-0ea5e9?style=for-the-badge" alt="UPSICAST Project"/>
+    <img src="https://img.shields.io/badge/UPSICAST-Platform-0ea5e9?style=for-the-badge" alt="UPSICAST Project"/>
   </a>
     <a href="https://khalilia.vercel.app">
-    <img src="https://img.shields.io/badge/HiresHub-Platform-0ea5e9?style=for-the-badge" alt="KHALILIA Project"/>
+    <img src="https://img.shields.io/badge/KHALILIA-Platform-0ea5e9?style=for-the-badge" alt="KHALILIA Project"/>
   </a>
   
 </div>
