@@ -170,8 +170,6 @@ I'm the **Founder of UPSICAST**, where we architect digital experiences that ins
 
 ## Let's Connect & Collaborate
 
-<div align="center">
-  
 I'm always excited to work on **innovative projects** and connect with fellow developers!
 
 **Available for:**
@@ -180,7 +178,7 @@ I'm always excited to work on **innovative projects** and connect with fellow de
 - Consulting opportunities
 - Open source contributions
 
-<br>
+<div align="center">
 
 <a href="https://www.linkedin.com/in/abdellm/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -193,11 +191,7 @@ I'm always excited to work on **innovative projects** and connect with fellow de
 
 ---
 
-## Coding Vibes
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
-</div>
 
 ---
 
